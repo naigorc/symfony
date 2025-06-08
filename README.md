@@ -1,7 +1,7 @@
 # Symfony CRUD
 
 
-## Topics covered in the video
+## Topics covered
 * Installation
 * Running the built-in webserver
 * Basics of model, view and controller
